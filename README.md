@@ -1,1 +1,0 @@
-# typeix-singleton-class-decorator
